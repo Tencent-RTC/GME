@@ -1,4 +1,4 @@
-# 错误码表
+# Error Codes
 
 Copyright \(c\) 2025 Tencent. All rights reserved.
 

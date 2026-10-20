@@ -1,4 +1,4 @@
-# 类型定义
+# Type Definitions
 
 Copyright \(c\) 2025 Tencent. All rights reserved.
 

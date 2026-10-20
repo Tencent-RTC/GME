@@ -1,4 +1,4 @@
-# 接入实时语音
+# Integrate Real-Time Voice
 
 This guide explains how to integrate GME real-time voice into your project. It covers basic functionality for demonstration purposes. For advanced features, refer to the API documentation.
 
